@@ -11,7 +11,7 @@ A double pendulum is a classic example of a chaotic dynamical system. It consist
 ## Installation
 
 ```bash
-git clone git remote add origin https://github.com/lukasfischer1998/DoublePendulum.git
+git clone https://github.com/lukasfischer1998/DoublePendulum.git
 cd DoublePendulum
 open index.html
 ```
