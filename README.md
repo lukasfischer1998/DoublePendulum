@@ -1,4 +1,4 @@
-![Double Pendulum]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7lSae7bu5Ez6Lt7kUOpHsH3QcKDxU1n3rmofbtLSig&s](https://rotations.berkeley.edu/wp-content/uploads/2017/10/double-pendulum.png))
+![Double Pendulum](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWVGeYuM57riiu7pm2zligrTN7bkVNORSnw&s)
 
 # Double Pendulum Simulation
 
