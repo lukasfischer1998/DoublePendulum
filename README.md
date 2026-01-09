@@ -1,5 +1,5 @@
 ![Double Pendulum](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWVGeYuM57riiu7pm2zligrTN7bkVNORSnw&s)
-
+Copyright: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWVGeYuM57riiu7pm2zligrTN7bkVNORSnw&s
 # Double Pendulum Simulation
 
 This is a simple simulation of a double pendulum implemented using HTML, CSS, and JavaScript.
